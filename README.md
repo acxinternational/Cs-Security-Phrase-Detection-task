@@ -2,7 +2,7 @@
 Objective: Build a minimal web application that fetches customer support ticket history from a mock API, processes the data using a GPT-3.5 Turbo LLM Model, and displays the results in an interface.
  
 # Scope: The application should
-  1. Fetch mock ticket data from a provided API endpoint.
+  1. Fetch mock ticket data from the following mock API endpoint https://goruen.free.beeceptor.com/tickets-history.
   2. Detect specific phrases and words in the conversation history.
   3. Display the detected messages that have security issue phrases.
 
